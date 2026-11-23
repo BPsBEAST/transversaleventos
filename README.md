@@ -15,9 +15,9 @@ Em **Settings → Pages → Build and deployment**, escolher **Deploy from a bra
 
 ## Pendente antes de divulgar
 - Substituir as fotografias ilustrativas temporárias de Unsplash pelas fotos reais do ZIP original.
-- Substituir os cartões com iniciais por fotografias da equipa.
+- As seis fotografias da equipa já aparecem numa folha de contactos comprimida para carregamento. Substituir futuramente por fotografias individuais de maior resolução.
 - Inserir o logótipo oficial, contactos oficiais, área de atuação e links sociais.
-- Configurar envio de formulário: atualmente o pedido é apenas copiado para a área de transferência, não é enviado.
+- O formulário envia por FormSubmit para o endereço provisório marketing.geracaotransversal@gmail.com. Para ficar operacional, o destinatário tem de ativar o serviço através da mensagem de confirmação enviada pela FormSubmit. Confirmar ou substituir pelo email oficial da Transversal Eventos antes da divulgação.
 - Rever autorizações de utilização das imagens, textos de privacidade e informação dos serviços.
 
 O site é uma versão inicial publicada diretamente no repositório. Ainda não corresponde integralmente ao pacote original com os ficheiros visuais.
